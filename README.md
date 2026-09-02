@@ -1,4 +1,4 @@
-# ecoprod
+# ECOPROD
 ## Ecossistema Orientado a Produtos Digitais - ECOPROD
 
 O modelo de ecossistema para desenvolvimento de produtos digitais tem como objetivo garantir a integração sustentável entre os diversos atores e artefatos do macroprocesso de construção de soluções e serviços digitais. Além disso, busca possibilitar a aplicação de conceitos e diretrizes de melhoria contínua, fomentando a avaliação constante da qualidade de produtos e processos internos para identificar gargalos, reduzir desperdícios e ampliar a eficiência dos resultados.
