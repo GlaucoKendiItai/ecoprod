@@ -10,11 +10,19 @@ Assim, o **ECOPROD** foi projetado com foco na entrega contínua de produtos dig
 
 ## Estrutura do Site
 
--meu-site/.
---public/ # Arquivos estáticos (imagens, favicons).
---src/                 # Código-fonte principal.
----assets/          # Estilos globais, fontes, mídias.
----components/      # Elementos reutilizáveis (botões, menus).
----pages/           # Páginas do site (Home, Sobre, Contato).
----services/        # Conexões com APIs e Banco de Dados.
---README.md            # Documentação.
+<ul>
+  <li>ecoprod/</li>
+    <ul>
+      <li>public/</li>
+      <li>src/
+        <ul>
+          <li>assets/</li>
+          <li>components/</li>
+          <li>pages/</li>
+          <li>services/</li>
+        </ul>
+      </li>
+    </ul>
+  <li>README.md</li>
+</ul>
+
