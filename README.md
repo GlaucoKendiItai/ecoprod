@@ -8,12 +8,13 @@ Dessa forma, a utilização do **ECOPROD** visa assegurar a adoção de mecanism
 Assim, o **ECOPROD** foi projetado com foco na entrega contínua de produtos digitais — sejam eles serviços de TI, softwares em funcionamento ou iniciativas de inovação para as diversas áreas de negócio —, subsidiando a execução das diretrizes de Transformação Digital da organização. O modelo foi estruturado com base nos princípios basilares de metodologias e frameworks ágeis de mercado, tais como Scrum, Kanban e Lean.
 
 
+## Estrutura do Site
 
--meu-site/
---public/              # Arquivos estáticos (imagens, favicons)
---src/                 # Código-fonte principal
----assets/          # Estilos globais, fontes, mídias
----components/      # Elementos reutilizáveis (botões, menus)
----pages/           # Páginas do site (Home, Sobre, Contato)
----services/        # Conexões com APIs e Banco de Dados
---README.md            # Documentação
+-meu-site/.
+--public/ # Arquivos estáticos (imagens, favicons).
+--src/                 # Código-fonte principal.
+---assets/          # Estilos globais, fontes, mídias.
+---components/      # Elementos reutilizáveis (botões, menus).
+---pages/           # Páginas do site (Home, Sobre, Contato).
+---services/        # Conexões com APIs e Banco de Dados.
+--README.md            # Documentação.
